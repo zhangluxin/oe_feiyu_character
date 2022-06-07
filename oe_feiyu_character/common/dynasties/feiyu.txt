@@ -1,0 +1,17 @@
+﻿# 魏
+# feiyu_family_001 = {
+# 	name = "dynn_Wei1"
+# 	culture = han
+# }
+
+# 张
+# feiyu_family_002 = {
+# 	name = "dynn_Zhang1"
+# 	culture = han
+# }
+
+# 谭
+# feiyu_family_003 = {
+# 	name = "dynn_Dam"
+# 	culture = han
+# }

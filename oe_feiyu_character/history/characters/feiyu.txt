@@ -1,0 +1,132 @@
+﻿# 张贺
+feiyu000_001 = {
+	dynasty = junyi_zhang_dyn
+	name = "Feiyu_name0"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_2
+	trait = intellect_good_3
+	trait = physique_good_1
+	trait = education_stewardship_4
+	dna = feiyu_male_dna_001
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#魏强
+feiyu000_002 = {
+	dynasty = 1000048018
+	name = "Feiyu_name1"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_2
+	trait = intellect_good_3
+	trait = physique_good_2
+	trait = education_diplomacy_4
+	dna = feiyu_male_dna_002
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#谭铮
+feiyu000_003 = {
+	dynasty = 1000050022
+	name = "Feiyu_name3"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = physique_good_3
+	trait = education_martial_4
+	dna = feiyu_male_dna_003
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#王白继
+feiyu000_004 = {
+	dynasty = langya_wang_dyn
+	name = "Feiyu_name4"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_2
+	trait = intellect_good_3
+	trait = physique_good_2
+	trait = education_learning_4
+	dna = feiyu_male_dna_003
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#杜威
+feiyu000_005 = {
+	dynasty = jingzhao_du_dyn
+	name = "Feiyu_name5"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = physique_good_3
+	trait = education_learning_4
+	dna = feiyu_male_dna_002
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#王常春
+feiyu000_006 = {
+	dynasty = wannian_wang_dyn
+	name = "Feiyu_name6"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = physique_good_3
+	trait = education_learning_4
+	dna = feiyu_male_dna_001
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+
+#杨海金
+feiyu000_007 = {
+	dynasty = hongnong_yang_dyn
+	name = "Feiyu_name7"
+	culture = han
+	religion = jingxue
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = physique_good_3
+	trait = education_learning_4
+	dna = feiyu_male_dna_003
+	954.6.7 = {
+		birth=yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
